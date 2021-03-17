@@ -4,7 +4,7 @@ My name is Bikram rongpi and I'm from India. I really enjoy learning new technol
 
 ## Take a look of my stats!
 
-[![Fernando's Github Stats](https://github-readme-stats.vercel.app/api?username=bikrambox&show_icons=true)](https://github.com/bikrambox/github-readme-stats)
+[![Mandex's Github Stats](https://github-readme-stats.vercel.app/api?username=bikrambox&show_icons=true)](https://github.com/bikrambox/github-readme-stats)
 
 ## My Top Languages
 
