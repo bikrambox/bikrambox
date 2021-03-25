@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Bikram <img align="right" src="https://komarev.com/ghpvc/?username=bikrambox&color=269077">
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm currently studying computer engineering
-- 🌱 I’m currently learning Golang,C,Cpp
+- 💻 I'm currently studying Computer science
+- 🌱 I’m currently learning Java || ReactJS,VueJS,Vuetify || NodeJS || 
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
@@ -30,3 +30,4 @@
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-bikram.rongpi.dpu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bikram.rongpi.dpu@gmail.com)
 [![telegram](https://img.shields.io/badge/-@bikram_rongpi-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/bikram_rongpi)
+https://img.shields.io/twitter/follow/bikramrongpi_?style=social
