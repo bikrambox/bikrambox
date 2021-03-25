@@ -28,7 +28,6 @@
 ![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikrambox&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikrambox&layout=compact&exclude_repo=bikrambox.github.io&theme=gotham)](https://github.com/bikrambox/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-bikram.rongpi.dpu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bikram.rongpi.dpu@gmail.com)
+[![gmail](https://img.shields.io/badge/-bikram.rongpi.dpu@gmail.com-D14836?style=flat-square&logo=appveyor)](mailto:bikram.rongpi.dpu@gmail.com)
 [![telegram](https://img.shields.io/badge/-@bikram_rongpi-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/bikram_rongpi)
-
 [![twitter](https://img.shields.io/twitter/follow/bikramrongpi_?style=social)](https://twitter.com/bikramrongpi_)
